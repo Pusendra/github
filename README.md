@@ -1,1 +1,1 @@
-# github-bot
+# bot
