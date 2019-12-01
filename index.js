@@ -15,6 +15,6 @@ const makecommit = n=>{
     makecommit.bind(this, --n))});
 }
 
-makecommit(5);
+makecommit(500);
 
 
